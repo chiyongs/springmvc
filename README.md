@@ -13,3 +13,6 @@
 - HTTP 요청 파라미터 - 쿼리 파라미터, HTML Form
 - HTTP 요청 파라미터 - @RequestParam
 - HTTP 요청 파라미터 - @ModelAttribute
+
+2021.04.20
+- HTTP 요청 메시지 - 단순 텍스트
